@@ -1,0 +1,22 @@
+{
+  "haha": [
+    {
+      "name": "Huấn Hoa Hồng",
+      "Address": " Báo Đáp - Yên Bái",
+      "age": "35",
+      "id": 1
+    },
+    {
+      "name": "Khánh Sky",
+      "Address": "Ông Này Tôi Chịu",
+      "age": "25",
+      "id": 2
+    },
+    {
+      "name": "Lâm Tường",
+      "Address": "Lạng Sơn",
+      "age": "23",
+      "id": 3
+    }
+  ]
+}
